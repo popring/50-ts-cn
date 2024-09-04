@@ -1,5 +1,7 @@
 English Repo: https://github.com/azat-co/50-ts
 
+**使用 AI 翻译，仅供参考。**
+
 
 # 50 TypeScript F*ck Ups 书
 
